@@ -1,6 +1,6 @@
 <center><h1> 중고차 시세예측 앱 </h1> </center>
 
-<img src =https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png width = 20,m height = 20 > **포트폴리오**  [PDF]()
+<img src =https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/1667px-PDF_file_icon.svg.png width = 20,m height = 20 > **포트폴리오**  [PDF](https://github.com/wlsgud0452/cha_sa_jo/blob/main/03.chasajo_Portfolio/chasajo.pdf)
 
 <img src =https://cdn-icons-png.flaticon.com/512/1384/1384060.png width = 20,m height = 20 > **동영상** [Youtube](https://youtu.be/A8vdDPVYq-w)
 
@@ -30,7 +30,7 @@ ___
 
 ___
 
-> **R** [분석]()
+> **R** [분석](https://github.com/wlsgud0452/cha_sa_jo/blob/main/03.chasajo_Portfolio/R_%EB%B6%84%EC%84%9D%EC%9A%94%EC%95%BD.pdf)
 - DATA 컬럼소개 및 모델 선정
 - Column 정제
   - Price & Year 
@@ -43,7 +43,7 @@ ___
 
 ___
 
-> **Flutter** [기능]()
+> **Flutter** [기능](https://github.com/wlsgud0452/cha_sa_jo/blob/main/03.chasajo_Portfolio/Flutter.pdf)
 - System Flow Diagram
 - 기능구현
   - Splash 효과
@@ -56,7 +56,7 @@ ___
   - 다크모드
 ___
 
-> **Spring boot** [기능]()
+> **Spring boot** [기능](https://github.com/wlsgud0452/cha_sa_jo/blob/main/03.chasajo_Portfolio/RESTful%20API.pdf)
 - Rest Controller
 - Rconnect
 
